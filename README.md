@@ -13,3 +13,10 @@ download this project with the next commands:
 Open your favorite navigator and go to http://localhost:8080/.
 
 **Welcome to Spring world ;)**
+
+# Recommendation to use this application as a Docker Container
+This link is useful to start my application as a Docker container:
+
+* https://spring.io/guides/gs/spring-boot-docker/
+
+Go to the point *Build a Docker Image with Gradle*
